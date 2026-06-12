@@ -1,8 +1,10 @@
 # ChatApp Backend API
 
+This repository is maintained by **Kavindu Kodikara**, lecturer for the **HDP 1** module in the **BSc (Hons) Software Engineering – 2nd Year** program at **Java Institute for Advanced Technology**.
+
 ## Project Overview
 
-This repository contains the Express.js backend API for a React Native chat application. It is a practical classroom project for the HDP 1 subject in the BSc (Hons) Software Engineering – 2nd Year program.
+This repository contains the Express.js backend API for a React Native chat application, developed as a practical classroom project. It is made available to students for revision and to catch up on any missed sessions.
 
 ## About this project
 
