@@ -4,29 +4,13 @@
 
 This repository contains the Express.js backend API for a React Native chat application. It is a practical classroom project for the HDP 1 subject in the BSc (Hons) Software Engineering – 2nd Year program.
 
-The backend API is developed by the lecturer at Java Institute for Advanced Technology together with students, and it is intended as a reference for students who miss class or miss parts of the practical code.
+## About this project
 
-## Institute / Subject Context
-
-- Course: **HDP 1**
-- Program: **BSc (Hons) Software Engineering – 2nd Year**
-- Institute: **Java Institute for Advanced Technology**
-
-This repository supports classroom learning by showing how to build the server side of a chat app project.
-
-## Purpose of the Repository
-
-- Provide a reference implementation of the backend API used in the practical class.
-- Help students review the code when they miss a lecture or need to understand the server logic.
-- Show how to connect a Node.js/Express backend with a React Native chat application.
-
-## What Students Will Learn
-
-- Installing and running a TypeScript Express backend.
-- Using `express.json()` for API routes.
-- Connecting to a MySQL database with `mysql2`.
-- Building authentication and chat data endpoints.
-- Understanding the structure of a simple backend API.
+- Platform: Express.js
+- Purpose: Chat App API for practical class work
+- Audience: BSc Hons Software Engineering 2nd year students
+- Institute: Java Institute for Advanced Technology
+- Website: <https://www.javainstitute.edu.lk/>
 
 ## Prerequisites
 
